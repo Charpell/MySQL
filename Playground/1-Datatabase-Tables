@@ -1,0 +1,39 @@
+
+-- show databases
+
+-- Create Database
+CREATE DATABASE cat_app;
+
+-- Delete Database
+-- DROP DATABASE DogApp;
+
+-- Show Database
+-- show databases;
+
+-- Select a database to use
+USE cat_app;
+
+-- Database Currently in use
+-- SELECT DATABASE();
+
+
+
+
+-- Create Table
+create table cats(name varchar(100), age int);
+
+-- Show Tables in a Database
+-- Show Tables;
+
+-- Show columns in a table
+-- show columns from cats
+-- desc cats
+
+
+-- Delete Table
+drop table cats
+
+
+
+
+-- Data Types
